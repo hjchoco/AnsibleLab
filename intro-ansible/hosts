@@ -11,9 +11,9 @@ pod_number = 10
 # you to fill these in. If you are using the sandbox lab, you may ignore them.
 
 # Fill in your Webex Teams auth token from https://developer.webex.com/getting-started.html
-webex_token = Bearer Mzg5ZTg1YzAtOTAwOC00ZmNmLTk4MWQtZWZmOTRjZDA4YmQyMTc2MWUyYmItNzNi_PF84_1eb65fdf-9643-417f-9974-ad72cae0e10f
+webex_token = mytokenabcde
 # Fill in your Webex Teams room id you wish to post to
-webex_room_id = Y2lzY29zcGFyazovL3VzL1JPT00vYzYzNjQyYjAtNzU4Zi0xMWViLTk2YWYtNWYyMzUwZGM2NzYz
+webex_room_id = Roomid
 
 [iosxe:children]
 # FYI - If you are in a DevNet Express please add a #
